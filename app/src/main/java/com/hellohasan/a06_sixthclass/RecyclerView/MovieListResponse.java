@@ -1,5 +1,5 @@
 package com.hellohasan.a06_sixthclass.RecyclerView;
-
+//comment
 import android.os.Parcel;
 import android.os.Parcelable;
 
