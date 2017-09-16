@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "message": "Data fetch successful",
+  "movies": [
+    {
+      "name": "Life Of Pi",
+      "director": "Ang Lee",
+      "image": "https://raw.githubusercontent.com/hasancse91/Android-Development-Course/master/06-SixthClass/Data/life_of_pi.jpg",
+      "rank": 4,
+      "type": "adventure"
+    },
+    {
+      "name": "Shawshank Redemption",
+      "director": "Frank Darabont",
+      "image": "https://raw.githubusercontent.com/hasancse91/Android-Development-Course/master/06-SixthClass/Data/shawshank_redemption.jpg",
+      "rank": 2,
+      "type": "drama"
+    },
+    {
+      "name": "The Godfather",
+      "director": "Francis Ford Coppola",
+      "image": "https://raw.githubusercontent.com/hasancse91/Android-Development-Course/master/06-SixthClass/Data/the_godfather.jpg",
+      "rank": 1,
+      "type": "crime"
+    },
+    {
+      "name": "Forest Gump",
+      "director": "Robert Zemeckis",
+      "image": "https://raw.githubusercontent.com/hasancse91/Android-Development-Course/master/06-SixthClass/Data/forrest_gump.jpg",
+      "rank": 3,
+      "type": "motivational"
+    }
+  ]
+}
